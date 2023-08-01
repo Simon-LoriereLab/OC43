@@ -125,7 +125,7 @@
       },
       {
         "key": "genotype",
-        "title": "Genoype A to D",
+        "title": "Genoype",
         "type": "categorical"
       },
       {
