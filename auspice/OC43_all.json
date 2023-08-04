@@ -3,10 +3,10 @@
   "meta": {
     "title": "Real-time tracking of human coronavirus OC43 evolution",
     "updated": "2023-07-30",
-    "build_url": "https://github.com/Simon-LoriereLab",
+    "build_url": "https://github.com/nextstrain",
     "maintainers": [
       {
-        "name": "ESL",
+        "name": "Simon-LoriereLab",
         "url": "https://github.com/Simon-LoriereLab"
       }
     ],
